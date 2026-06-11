@@ -71,6 +71,19 @@ No framework, build tool, package manager, or backend is required.
 8. Click **Copy HTML**.
 9. Paste the HTML into the Salesforce Knowledge source editor.
 
+
+## Screenshots
+
+### Paste area
+![Paste area](screenshots/paste-area.png)
+
+### Converted output
+![Converted output](screenshots/converted-output.png)
+
+### Warnings panel
+![Warnings panel](screenshots/warnings-panel.png)
+
+
 ## Project scope
 
 This is a small internal productivity tool, not a full publishing system. It is designed to support a specific KM workflow: preparing cleaner HTML from Word-based article drafts for Salesforce Knowledge.
