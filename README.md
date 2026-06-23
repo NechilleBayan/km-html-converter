@@ -92,7 +92,3 @@ No framework, build tool, package manager, or backend is required.
 ## Project scope
 
 This is a small internal productivity tool, not a full publishing system. It is designed to support a specific KM workflow: preparing cleaner HTML from Word-based article drafts for Salesforce Knowledge.
-
-## Portfolio note
-
-This project demonstrates practical workflow automation, documentation operations thinking, and the ability to build small tools that reduce repetitive cleanup work for a content or KM team.
